@@ -19,8 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/apoorvnema/QR-code-component-challenge)
-- Live Site URL: [Add live site URL here](https://apoorvnema.github.io/QR-code-component-challenge/)
+- Solution URL: [Github URL](https://github.com/apoorvnema/QR-code-component-challenge)
+- Live Site URL: [Live Site](https://apoorvnema.github.io/QR-code-component-challenge/)
 
 ## My process
 
@@ -32,5 +32,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](https://apoorvnema.pro)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/apoorvnema)
+- Website - [Apoorv Nema](https://apoorvnema.pro)
+- Frontend Mentor - [@apoorvnema](https://www.frontendmentor.io/profile/apoorvnema)
